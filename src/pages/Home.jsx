@@ -17,7 +17,7 @@ return (
 <div className="layout-grid">
 <div className="left-large">
 <h3 style={{marginTop:0}}>Panel principal</h3>
-<p style={{color:'var(--muted)'}}>Aquí iría el contenido amplio: tablas, gráficos o información detallada del sistema.</p>
+<p style={{color:'var(--muted)'}}>Contenido</p>
 </div>
 <ContactForm />
 </div>
